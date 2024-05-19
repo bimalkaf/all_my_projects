@@ -103,7 +103,7 @@ This repository contains a list of all my projects, categorized for easy navigat
   
 ## Portfolio
 
-- [Portfolio Website](https://github.com/bimalkaf/portfolio_website)
+- [Portfolio Website](https://github.com/bimalkaf/portfolio-website)
 
 ## Contact
 
