@@ -2,6 +2,8 @@
 
 This repository contains a list of all my projects, categorized for easy navigation. Click on the project names to view the corresponding repositories.
 
+*This list is constantly being updated with my latest projects.*
+
 ## Android
 
 ### Kotlin With Jetpack Compose
