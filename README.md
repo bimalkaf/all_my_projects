@@ -109,7 +109,6 @@ This repository contains a list of all my projects, categorized for easy navigat
 
 If you have any questions or suggestions, feel free to reach out.
 
-- **Email:** bimalkafle0000@gmail.com
 - **LinkedIn:** [Bimal Kafle](https://www.linkedin.com/in/bimalkafle/)
 
 ---
