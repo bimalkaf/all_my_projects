@@ -13,6 +13,7 @@ This repository contains a list of all my projects, categorized for easy navigat
 - [Todo App with RoomDB](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/4_TodoApp_RoomDB)
 - [Full Calculator](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/5_Calculator)
 - [Realtime Weather with Retrofit (Weather API) ](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/6_Realtime_Weather_Retrofit)
+- [Chatbot with AI (Gemini API)](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/9_Gemini_ChatBot_App)
 
 #### UI and Feature Demo
 - [Simple Login Page](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/2_SimpleLoginPage)
