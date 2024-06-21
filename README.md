@@ -16,6 +16,7 @@ This repository contains a list of all my projects, categorized for easy navigat
 - [Chatbot with AI (Gemini API)](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/9_Gemini_ChatBot_App)
 
 #### UI and Feature Demo
+- [Firebase Auth Login & Signup Compose App](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/10_Login_Signup_FirebaseAuth)
 - [Simple Login Page](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/2_SimpleLoginPage)
 - [Simple Animation Demo](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/7_Simple_Animation_Demo)
 - [First Compose App](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/1_FirstComposeApp)
