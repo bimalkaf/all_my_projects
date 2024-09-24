@@ -14,6 +14,7 @@ This repository contains a list of all my projects, categorized for easy navigat
 - [Full Calculator](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/5_Calculator)
 - [Realtime Weather with Retrofit (Weather API) ](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/6_Realtime_Weather_Retrofit)
 - [Chatbot with AI (Gemini API)](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/9_Gemini_ChatBot_App)
+- [News App (News API)](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/11_News_App)
 
 #### UI and Feature Demo
 - [Firebase Auth Login & Signup Compose App](https://github.com/bimalkaf/JetpackCompose_Playground/tree/main/10_Login_Signup_FirebaseAuth)
